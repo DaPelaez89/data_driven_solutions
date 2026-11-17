@@ -1,0 +1,3 @@
+representative_id,sales_count,transaction_count,gross_amount,refund_amount,net_amount,fictional_rate,fictional_commission
+REP001,2,4,1800.00,-700.00,1100.00,0.05,55.00
+REP002,2,2,1250.00,0.00,1250.00,0.04,50.00

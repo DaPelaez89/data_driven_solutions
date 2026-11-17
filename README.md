@@ -21,3 +21,7 @@ Each project includes a small **fictional** dataset and an illustrative
 analysis. The examples demonstrate a workflow, not real company results or
 commission policies. Original customer records, financial reports,
 credentials, and company source code are not included.
+
+The customer-sales case study also includes an independently created
+[executable ETL demo](projects/customer-sales-analytics/README.md#executable-etl-demonstration)
+with generated fictional inputs, exception checks, and an Excel report.
