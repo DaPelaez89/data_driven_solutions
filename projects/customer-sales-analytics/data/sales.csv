@@ -1,0 +1,6 @@
+sale_id,customer_id,representative_id,sale_date,sale_amount,sale_status
+CS-SALE-01,CS-CUST-01,CS-REP-01,2026-01-05,1200.00,Active
+CS-SALE-02,CS-CUST-02,CS-REP-02,2026-01-07,850.00,Active
+CS-SALE-03,CS-CUST-03,CS-REP-01,2026-01-09,600.00,Cancelled
+CS-SALE-04,CS-CUST-04,CS-REP-02,2026-01-11,400.00,Active
+CS-SALE-05,CS-CUST-06,CS-REP-01,2026-01-13,500.00,Active

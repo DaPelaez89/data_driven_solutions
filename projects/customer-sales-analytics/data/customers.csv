@@ -1,0 +1,7 @@
+customer_id,customer_name,phone,email,vehicle_id,customer_status,representative_id
+CS-CUST-01,Demo Customer One,2025550101,cs-customer01@example.invalid,SYNTHETICVIN00001,Active,CS-REP-01
+CS-CUST-02,Demo Customer Two,2025550102,cs-customer02@example.invalid,SYNTHETICVIN00002,Active,CS-REP-02
+CS-CUST-03,Demo Customer Three,2025550103,cs-customer03@example.invalid,SYNTHETICVIN00003,Cancelled,CS-REP-01
+CS-CUST-04,Demo Customer Four,2025550104,cs-customer04@example.invalid,SYNTHETICVIN00004,Active,CS-REP-02
+CS-CUST-05,Demo Customer Five,2025550105,cs-customer05@example.invalid,SYNTHETICVIN00005,Pending,CS-REP-02
+CS-CUST-06,Demo Customer Six,2025550106,cs-customer06@example.invalid,SYNTHETICVIN00006,Active,CS-REP-01

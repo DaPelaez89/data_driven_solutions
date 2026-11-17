@@ -1,0 +1,5 @@
+sale_id,customer_id,representative_id,sale_date,sale_amount,sale_status
+LF-SALE-01,LF-CUST-01,LF-REP-01,2026-02-02,1000.00,Active
+LF-SALE-02,LF-CUST-02,LF-REP-02,2026-02-04,750.00,Active
+LF-SALE-03,LF-CUST-03,LF-REP-01,2026-02-06,500.00,Cancelled
+LF-SALE-04,LF-CUST-05,LF-REP-02,2026-02-08,900.00,Active

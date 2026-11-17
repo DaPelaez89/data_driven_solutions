@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,HomePhone,Phone2,Email,Street1,City,State,Zip,Vin,LeadStatus,RepresentativeID
+LF-CUST-01,Demo,CustomerSeven,2025550111,,lf-customer01@example.invalid,101 Example Way,Example City,California,00000,SYNTHETICVIN00011,Active,LF-REP-01
+LF-CUST-02,Demo,CustomerEight,2025550112,,lf-customer02@example.invalid,102 Example Way,Example City,Texas,00000,SYNTHETICVIN00012,Active,LF-REP-02
+LF-CUST-03,Demo,CustomerNine,2025550113,,lf-customer03@example.invalid,103 Example Way,Example City,Florida,00000,SYNTHETICVIN00013,Cancelled,LF-REP-01
+LF-CUST-04,Demo,CustomerTen,2025550114,,lf-customer04@example.invalid,104 Example Way,Example City,Arizona,00000,SYNTHETICVIN00014,Pending,LF-REP-02
+LF-CUST-05,Demo,CustomerEleven,2025550115,,lf-customer05@example.invalid,105 Example Way,Example City,California,00000,SYNTHETICVIN00015,Active,LF-REP-02

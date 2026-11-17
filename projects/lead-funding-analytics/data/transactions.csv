@@ -1,0 +1,7 @@
+transaction_id,sale_id,transaction_date,transaction_type,amount
+LF-TXN-01,LF-SALE-01,2026-02-02,Sale,1000.00
+LF-TXN-02,LF-SALE-02,2026-02-04,Sale,750.00
+LF-TXN-03,LF-SALE-03,2026-02-06,Sale,500.00
+LF-TXN-04,LF-SALE-03,2026-02-07,Refund,-500.00
+LF-TXN-05,LF-SALE-04,2026-02-08,Sale,900.00
+LF-TXN-06,LF-SALE-04,2026-02-09,Refund,-150.00
